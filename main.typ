@@ -188,5 +188,5 @@ gutter: 5em,
 )
 
 = Referees
-- Yawei Wang, Professor of Huazhong University of Science and Technology, yaweiwang\@hust.edu.cn
-- Ronghai Qu, Professor of Huazhong University of Science and Technology, ronghaiqu\@hust.edu.cn
+#box(baseline: -20%)[#math.triangle.filled] Yawei Wang, Professor of Huazhong University of Science and Technology, yaweiwang\@hust.edu.cn\
+#box(baseline: -20%)[#math.triangle.filled] Ronghai Qu, Professor of Huazhong University of Science and Technology, ronghaiqu\@hust.edu.cn

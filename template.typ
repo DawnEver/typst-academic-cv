@@ -47,9 +47,9 @@
 
   show heading: it => {
     show: smallcaps
-    v(-0.8em)
+    v(-0.4em)
     text(weight: "black",size:font_3p,fill:heading_color)[#it]
-    v(-0.8em)
+    v(-1em)
     line(length: 100%,stroke:0.05em+heading_color)
     v(0em)
   }
@@ -117,13 +117,14 @@
 
 // event
 #let event(date:"",title:"",event:"",body) ={
+  v(-0.2em)
   grid(
     columns: (1fr, 9em),
     box()[#text(weight: "bold", size: font_4p, fill: body_color)[#title]],
     align(right+horizon)[#dateFn[#date]],
   ) 
   set text(size: font_s4p, fill: body_color)
-  v(-0.6em)
+  v(-0.4em)
   h(1em)
   box()[
     #box(baseline: -20%)[#math.triangle.filled]
@@ -135,6 +136,7 @@
 }
 // publication
 #let publication(authors:(),title:"",booktitle:"",location:"",number:"",page:"",date:"",doi:"",type:"",addtion:"") ={
+  v(-0.2em)
   grid(columns: (1.5em,1em, 10fr),
   align()[
     #if type == "patent"{
@@ -187,6 +189,7 @@
 #let publication_legend() ={
   let pad_size = 0.2em
   let icon_size = 1em
+  // v(-0.3em)
   grid(
     columns: (pad_size, icon_size, 1fr, icon_size, 1fr, icon_size, 1fr, icon_size, 1fr, pad_size),
     gutter: 0.3em,
@@ -201,6 +204,7 @@
     align(left+horizon)[Software Copyright],
     "",
   )
+  v(-0.2em)
 }
 
 
