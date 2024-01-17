@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1080 1080" style="enable-background:new 0 0 1080 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:#6D4D56;}
+	.st2{display:inline;fill:#FFFFFF;}
+	.st3{font-family:'Times-Bold';}
+	.st4{font-size:890.5922px;}
+	.st5{display:inline;fill:#896C39;}
+	.st6{display:inline;fill:#46817E;}
+	.st7{fill:#AA6A4C;}
+	.st8{fill:#FFFFFF;}
+</style>
+<g id="confereence" class="st0">
+	<path class="st1" d="M854.3,1078.5H223.7c-123.3,0-224.2-100.9-224.2-224.2V223.7C-0.5,100.4,100.4-0.5,223.7-0.5h630.7
+		c123.3,0,224.2,100.9,224.2,224.2v630.7C1078.5,977.6,977.6,1078.5,854.3,1078.5z"/>
+	<text transform="matrix(1 0 0 1 231.0391 830.7188)" class="st2 st3 st4">C</text>
+</g>
+<g id="patent" class="st0">
+	<path class="st5" d="M854.8,1078H224.2C100.9,1078,0,977.1,0,853.8V223.2C0,99.9,100.9-1,224.2-1h630.7
+		C978.1-1,1079,99.9,1079,223.2v630.7C1079,977.1,978.1,1078,854.8,1078z"/>
+	<text transform="matrix(1 5.800000e-04 -5.800000e-04 1 332.3881 829.1006)" class="st2 st3 st4">P</text>
+</g>
+<g id="software" class="st0">
+	<path class="st6" d="M855.3,1078H224.7C101.4,1078,0.5,977.1,0.5,853.8V223.2C0.5,99.9,101.4-1,224.7-1h630.7
+		c123.3,0,224.2,100.9,224.2,224.2v630.7C1079.5,977.1,978.6,1078,855.3,1078z"/>
+	<text transform="matrix(1 5.800000e-04 -5.800000e-04 1 332.8881 829.1006)" class="st2 st3 st4">S</text>
+</g>
+<g id="journal">
+	<path class="st7" d="M855.8,1080H225.2C101.9,1080,1,979.1,1,855.8V225.2C1,101.9,101.9,1,225.2,1h630.7
+		C979.1,1,1080,101.9,1080,225.2v630.7C1080,979.1,979.1,1080,855.8,1080z"/>
+	<text transform="matrix(1 5.800000e-04 -5.800000e-04 1 309.3881 786.1006)" class="st8 st3 st4">J</text>
+</g>
+</svg>

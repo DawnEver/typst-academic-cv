@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1080 1080" style="enable-background:new 0 0 1080 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:#6D4D56;}
+	.st2{display:inline;fill:#FFFFFF;}
+	.st3{font-family:'Times-Bold';}
+	.st4{font-size:890.5922px;}
+	.st5{fill:#896C39;}
+	.st6{fill:#FFFFFF;}
+	.st7{display:inline;fill:#46817E;}
+	.st8{display:inline;fill:#AA6A4C;}
+</style>
+<g id="confereence" class="st0">
+	<path class="st1" d="M854.33,1078.5H223.67C100.38,1078.5-0.5,977.62-0.5,854.33V223.67C-0.5,100.38,100.38-0.5,223.67-0.5h630.65
+		c123.3,0,224.17,100.88,224.17,224.17v630.65C1078.5,977.62,977.62,1078.5,854.33,1078.5z"/>
+	<text transform="matrix(1 0 0 1 231.0391 830.7188)" class="st2 st3 st4">C</text>
+</g>
+<g id="patent">
+	<path class="st5" d="M854.83,1078H224.17C100.88,1078,0,977.12,0,853.83V223.17C0,99.88,100.88-1,224.17-1h630.65
+		C978.12-1,1079,99.88,1079,223.17v630.65C1079,977.12,978.12,1078,854.83,1078z"/>
+	<text transform="matrix(1 5.753585e-04 -5.753585e-04 1 332.4286 829.0651)" class="st6 st3 st4">P</text>
+</g>
+<g id="software" class="st0">
+	<path class="st7" d="M855.33,1078H224.67C101.38,1078,0.5,977.12,0.5,853.83V223.17C0.5,99.88,101.38-1,224.67-1h630.65
+		c123.3,0,224.18,100.88,224.18,224.17v630.65C1079.5,977.12,978.62,1078,855.33,1078z"/>
+	<text transform="matrix(1 5.753585e-04 -5.753585e-04 1 332.9286 829.0651)" class="st2 st3 st4">S</text>
+</g>
+<g id="journal" class="st0">
+	<path class="st8" d="M855.83,1080H225.17C101.88,1080,1,979.12,1,855.83V225.17C1,101.88,101.88,1,225.17,1h630.65
+		C979.12,1,1080,101.88,1080,225.17v630.65C1080,979.12,979.12,1080,855.83,1080z"/>
+	<text transform="matrix(1 5.753585e-04 -5.753585e-04 1 309.4286 786.0651)" class="st2 st3 st4">J</text>
+</g>
+</svg>
