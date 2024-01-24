@@ -36,7 +36,7 @@
     fill:background,
     header: grid(columns: (1fr,1fr,1fr),
       align(left)[],
-      align(center)[#image("img/hust.svg",width: 100%)],
+      align(center+top)[#v(0.2em)#image("img/hust.svg",width: 90%)],
       align(right)[],
     )
   )
@@ -53,7 +53,6 @@
     line(length: 100%,stroke:0.05em+heading_color)
     v(0em)
   }
-  
   body
 
   // bibliography(("publications.bib","patents.bib"),style: "ieee",title: "Publications and Patents",full:true)
@@ -62,14 +61,16 @@
 
 // personal information
 #let info(name: "", phone: "", email: "", github: "", blog: "") = {
+  v(-2em)
   grid(
     columns: (20fr,2fr,5fr),
     align(left+horizon)[
       // Contact information
+      #v(1em)
       #text([#name], weight: "black", size:font_title,fill:body_color)
       #set text(size:font_s4p,fill:body_color,)
       #set box(height: 1em,baseline: 20%)
-      #v(-2em)
+      #v(-1.5em)
       #grid(columns: (5em, 1fr),
       column-gutter: 1.6em,
       row-gutter: 0.5em,
@@ -107,6 +108,10 @@
     [#box[#image("img/matlab.jpg")]#h(h_pad)Matlab],
     [#box[#image("img/femm.svg")]#h(h_pad)Femm],
     [#box[#image("img/ansys.svg")]#h(h_pad)Ansys],
+    // "",
+    // "",
+    [#box[#image("img/photoshop.svg")]#h(h_pad)Photoshop],
+    [#box[#image("img/illustrator.svg")]#h(h_pad)Illustrator],
   )
 }
 // date
