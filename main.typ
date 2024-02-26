@@ -61,7 +61,7 @@ Electric Drive and Control Systems
 #event(
   date:"2023 Aug. - 2023 Sep.",
   title:[Design and Optimization of Flux-Barrier End shape in\ Synchronous Reluctance Motor Based on B-spines],
-  event:"Primary Finisher",
+  event:"Primary Person",
 )[\
 - Propose a novel design method of flux-barrier end shape based on B-spline curves.
 - Archive an effective electro-mechanical co-optimization workflow with sensitivity\ analysis, surrogate model, intelligient algorithms and multi-level optimization.
@@ -188,5 +188,5 @@ gutter: 5em,
 )
 
 = Referees
-#box(baseline: -20%)[#math.triangle.filled] Yawei Wang (Tutor), Associate Professor of Huazhong University of Science and Technology,\ yaweiwang\@hust.edu.cn\
-#box(baseline: -20%)[#math.triangle.filled] Ronghai Qu (Tutor), Professor of Huazhong University of Science and Technology,\ ronghaiqu\@hust.edu.cn
+#box(baseline: -20%)[#math.triangle.filled] Yawei Wang (supervisor), Associate Professor of Huazhong University of Science and Technology,\ yaweiwang\@hust.edu.cn\
+#box(baseline: -20%)[#math.triangle.filled] Ronghai Qu (supervisor), Professor of Huazhong University of Science and Technology,\ ronghaiqu\@hust.edu.cn
