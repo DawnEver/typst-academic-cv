@@ -52,10 +52,10 @@ Electric Drive and Control Systems
   title:"Hi-Motor Series",
   event:"Leader/Fullstack Developer",
 )[\
-- Lead a 15-undergraduate team for software developement, related research and\ business collaboration.
+- Lead a 15-undergraduate team for software development, related research and\ business collaboration.
 - Develop _hi-motor designer_ for design and optimization of high-efficiency motors,\ especially synchronous reluctance motors based on Python and Femm.
 - Support intelligent selection of high-efficiency motors with motor database and\ knowledge sharing platform based on MongoDB, Nodejs and Golang.
-- Archive 2 papers, 2 patents and register 2 software copyrights totally.
+- achieve 2 papers, 2 patents and register 2 software copyrights totally.
 ]
 
 #event(
@@ -64,7 +64,7 @@ Electric Drive and Control Systems
   event:"Primary Person",
 )[\
 - Propose a novel design method of flux-barrier end shape based on B-spline curves.
-- Archive an effective electro-mechanical co-optimization workflow with sensitivity\ analysis, surrogate model, intelligient algorithms and multi-level optimization.
+- achieve an effective electro-mechanical co-optimization workflow with sensitivity\ analysis, surrogate model, intelligent algorithms and multi-level optimization.
 // - Provide optimized motor designs of decrease in torque ripple and max stress\ without significant effect on other machine performances.
 
 ]
@@ -91,7 +91,7 @@ Electric Drive and Control Systems
 #grid(columns: (auto,auto),
 gutter: 5em,
 [#box(baseline: -20%)[#math.triangle.filled]
-  #strong[Sieyuan Schoolarship] (8/412)],
+  #strong[Sieyuan Scholarship] (8/412)],
 [#box(baseline: -20%)[#math.triangle.filled]
   #strong[Self-improvement Student] (7/412)],
 // strong[Outstanding League Cadres],
@@ -117,7 +117,7 @@ gutter: 5em,
   event:"Vice President"
 )[Mathematical Modeling/Event Planing\
 - Organize school-wide and cross-school lectures for contests like MCM/ICM.
-- Participate in textbook and video course developement in mathematical modeling.
+- Participate in textbook and video course development in mathematical modeling.
 ]
 
 #event(
@@ -154,7 +154,7 @@ gutter: 5em,
 )
 #publication(
   authors:([Y. Wang], [J. Li], [X. Li], strong[M. Bao],  [R. Qu]),
-  title:"Rotor with Adjacent Electrode Mirror Image of Synchronous Reluctance Motor and Permanent Magnet Asisted Synchronous Reluctance Motor",
+  title:"Rotor with Adjacent Electrode Mirror Image of Synchronous Reluctance Motor and Permanent Magnet Assisted Synchronous Reluctance Motor",
   location:"China Patent, Publication",
   number:"CN116722678A",
   date:"Sep. 2023",
@@ -162,7 +162,7 @@ gutter: 5em,
 )
 #publication(
   authors:([Y. Wang], [X. Li], [J. Li], strong[M. Bao],  [R. Qu]),
-  title:"A Permanent Magnet Asisted Synchronous Reluctance Motor of Low Torque Ripple",
+  title:"A Permanent Magnet Assisted Synchronous Reluctance Motor of Low Torque Ripple",
   location:"China Patent, Publication",
   number:"CN116505683B",
   date:"Apr. 2023",
@@ -171,7 +171,7 @@ gutter: 5em,
 
 #publication(
   authors:(strong[M. Bao], [S. Lu], [Y. Wang]),
-  title:"Hi-Motor Hub: Intelligient Selection Tool for High-efficiency Motors V1.0",
+  title:"Hi-Motor Hub: intelligent Selection Tool for High-efficiency Motors V1.0",
   location:"China Software Copyright, Publication",
   number:"2023SR1417580",
   date:"Nov. 2023",
@@ -180,7 +180,7 @@ gutter: 5em,
 
 #publication(
   authors:(strong[M. Bao], [J. Li], [Y. Chen], [Y. Wang]),
-  title:"Hi-Motor Designer: Intelligient Software for Design and Optimization of Synchronous Reluctance Motor V1.0",
+  title:"Hi-Motor Designer: intelligent Software for Design and Optimization of Synchronous Reluctance Motor V1.0",
   location:"China Software Copyright, Publication",
   number:"2023SR0446741",
   date:"Apr. 2023",
