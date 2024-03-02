@@ -25,10 +25,10 @@
 4.3/5\ 
 *College:*
 // #h(1em)
-School of Electric and Electrical Engineering(SEEE)\
+School of Electrical and Electronic Engineering(SEEE)\
 *Major:*
 // #h(1em)
-Electrical Engineering\ 
+Electrical and Electronic Engineering\ 
 *Courses:*
 // #h(1em)
 Electrical Machinery Theory, 
