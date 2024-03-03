@@ -88,6 +88,12 @@ Electric Drive and Control Systems
 
 #pagebreak()
 = Honors and Awards
+#event(
+  date:"2023 Dec. 7 - 9",
+  title:"IEEE Student Conference on Electric Machines and Systems",
+  event:"Best Presenter Award",
+)[Huzhou, China]
+
 #grid(columns: (auto,auto),
 gutter: 5em,
 [#box(baseline: -20%)[#math.triangle.filled]
@@ -96,11 +102,7 @@ gutter: 5em,
   #strong[Self-improvement Student] (7/412)],
 // strong[Outstanding League Cadres],
 )
-#event(
-  date:"2023 Dec. 7 - 9",
-  title:"IEEE Student Conference on Electric Machines and Systems",
-  event:"Best Presenter Award",
-)[Huzhou, China]
+
 
 = Extracurricular Activities
 #event(

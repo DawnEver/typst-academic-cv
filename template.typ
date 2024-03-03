@@ -159,11 +159,12 @@
   ],
   "",
   {let auth_n = authors.len()
-    if auth_n > 6 {
-      [#authors.at(0) _et. al._]
-    }else{
-      authors.join(", ", last: " and ")
-    }
+    // if auth_n > 6 {
+    //   [#authors.at(0) _et. al._]
+    // }else{
+    //   authors.join(", ", last: " and ")
+    // }
+    authors.join(", ", last: " and ")
     if title != ""{
       [, "#title"]
     }
