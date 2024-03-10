@@ -132,7 +132,7 @@
   v(-0.4em)
   h(1em)
   box()[
-    #box(baseline: -20%)[#math.triangle.filled]
+    #box(baseline: -20%)[#sym.triangle.filled]
     #strong[#event]
     #h(2em)
     #body

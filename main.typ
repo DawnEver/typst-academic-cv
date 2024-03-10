@@ -96,9 +96,9 @@ Electric Drive and Control Systems
 
 #grid(columns: (auto,auto),
 gutter: 5em,
-[#box(baseline: -20%)[#math.triangle.filled]
+[#box(baseline: -20%)[#sym.triangle.filled]
   #strong[Sieyuan Scholarship] (8/412)],
-[#box(baseline: -20%)[#math.triangle.filled]
+[#box(baseline: -20%)[#sym.triangle.filled]
   #strong[Self-improvement Student] (7/412)],
 // strong[Outstanding League Cadres],
 )
@@ -190,5 +190,5 @@ gutter: 5em,
 )
 
 = Referees
-#box(baseline: -20%)[#math.triangle.filled] Yawei Wang (supervisor), Associate Professor of Huazhong University of Science and Technology,\ yaweiwang\@hust.edu.cn\
-#box(baseline: -20%)[#math.triangle.filled] Ronghai Qu (supervisor), Professor of Huazhong University of Science and Technology,\ ronghaiqu\@hust.edu.cn
+#box(baseline: -20%)[#sym.triangle.filled] Yawei Wang (supervisor), Associate Professor of Huazhong University of Science and Technology,\ yaweiwang\@hust.edu.cn\
+#box(baseline: -20%)[#sym.triangle.filled] Ronghai Qu (supervisor), Professor of Huazhong University of Science and Technology,\ ronghaiqu\@hust.edu.cn
