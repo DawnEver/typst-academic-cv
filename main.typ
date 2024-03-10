@@ -52,7 +52,7 @@ Electric Drive and Control Systems
   title:"Hi-Motor Series",
   event:"Leader/Fullstack Developer",
 )[\
-- Lead a 15-undergraduate team for software development, related research and\ business collaboration.
+- Lead a 16-undergraduate team for software development, related research and\ business collaboration.
 - Develop _hi-motor designer_ for design and optimization of high-efficiency motors,\ especially synchronous reluctance motors based on Python and Femm.
 - Support intelligent selection of high-efficiency motors with motor database and\ knowledge sharing platform based on MongoDB, Nodejs and Golang.
 - achieve 2 papers, 2 patents and register 2 software copyrights totally.
