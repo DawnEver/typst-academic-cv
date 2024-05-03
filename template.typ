@@ -101,7 +101,7 @@
     row-gutter: 1em,
     [#box[#image("img/python.svg")]#h(h_pad)Python],
     [#box[#image("img/nodejs.svg")]#h(h_pad)Nodejs],
-    [#box[#image("img/javascript.svg")]#h(h_pad)Javascript],
+    [#box[#image("img/rust.svg")]#h(h_pad)Rust],
     [#box[#image("img/go.svg")]#h(h_pad)Golang],
     [#box[#image("img/cpp.svg")]#h(h_pad)C/C++],
 

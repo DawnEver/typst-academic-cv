@@ -94,6 +94,12 @@ Electric Drive and Control Systems
   event:"Best Presenter Award",
 )[Huzhou, China]
 
+#event(
+  date:"2024 Feb. 2 - 5",
+  title:"Mathematical Contest In Modeling",
+  event:"Finalist(2%)",
+)[Student Advisor]
+
 #grid(columns: (auto,auto),
 gutter: 5em,
 [#box(baseline: -20%)[#sym.triangle.filled]
@@ -105,13 +111,13 @@ gutter: 5em,
 
 
 = Extracurricular Activities
-#event(
-  date:"2024 Jan. - now",
-  title:"Wuhan Voltworks Science and Technology Ltd.",
-  event:"CEO/Chairman"
-)[Leadership\
-- Promote the development and application of _Hi-Motor Series_.
-]
+// #event(
+//   date:"2024 Jan. - now",
+//   title:"Wuhan Voltworks Science and Technology Ltd.",
+//   event:"CEO/Chairman"
+// )[Leadership\
+// - Promote the development and application of _Hi-Motor Series_.
+// ]
 
 #event(
   date:"2022 Oct. - 2023 Sep.",
@@ -155,6 +161,17 @@ gutter: 5em,
   type:"conference",
 )
 #publication(
+  authors:([Y. Yi], [Z. Huang], strong[M. Bao], [X. Li], [S. Lou]),
+  title:"Multi-step Short-term Load Forecasting Based on Attention Mechanism, TCN-BiLSTM Network and Decomposition-based Error Correction",
+  booktitle:"2024 IEEE 7th Asia Conference on Energy and Electrical Engineering (ACEEE 2024)",
+  location:"Chengdu, China",
+  number:"",
+  page:"1--9",
+  date:"July. 2023",
+  doi:"",
+  type:"conference",
+)
+#publication(
   authors:([Y. Wang], [J. Li], [X. Li], strong[M. Bao],  [R. Qu]),
   title:"Rotor with Adjacent Electrode Mirror Image of Synchronous Reluctance Motor and Permanent Magnet Assisted Synchronous Reluctance Motor",
   location:"China Patent, Publication",
@@ -189,6 +206,6 @@ gutter: 5em,
   type:"software",
 )
 
-= Referees
-#box(baseline: -20%)[#sym.triangle.filled] Yawei Wang (supervisor), Associate Professor of Huazhong University of Science and Technology,\ yaweiwang\@hust.edu.cn\
-#box(baseline: -20%)[#sym.triangle.filled] Ronghai Qu (supervisor), Professor of Huazhong University of Science and Technology,\ ronghaiqu\@hust.edu.cn
+// = Referees
+// #box(baseline: -20%)[#sym.triangle.filled] Yawei Wang (supervisor), Associate Professor of Huazhong University of Science and Technology,\ yaweiwang\@hust.edu.cn\
+// #box(baseline: -20%)[#sym.triangle.filled] Ronghai Qu (supervisor), Professor of Huazhong University of Science and Technology,\ ronghaiqu\@hust.edu.cn
