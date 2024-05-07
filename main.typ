@@ -8,7 +8,7 @@
   phone:"+86 19551570317",
   email:"mingyangbao@hust.edu.cn",
   github:"github.com/DawnEver",
-  blog:"www.bmy.asia"
+  blog:"www.baomingyang.site"
 )
 // = Summary
 
