@@ -206,6 +206,15 @@ gutter: 5em,
   type:"software",
 )
 
+// #publication(
+//   authors:([Y. Yi], strong[M. Bao], [S. Lou], [Z. Huang], [X. Li]),
+//   title:"Intelligent Analysis Platform for New Energy Consumption",
+//   location:"China Software Copyright, Publication",
+//   number:"2024SR078661",
+//   date:"June. 2024",
+//   type:"software",
+// )
+
 // = Referees
 // #box(baseline: -20%)[#sym.triangle.filled] Yawei Wang (supervisor), Associate Professor of Huazhong University of Science and Technology,\ yaweiwang\@hust.edu.cn\
 // #box(baseline: -20%)[#sym.triangle.filled] Ronghai Qu (supervisor), Professor of Huazhong University of Science and Technology,\ ronghaiqu\@hust.edu.cn
