@@ -210,7 +210,7 @@ gutter: 5em,
 //   authors:([Y. Yi], strong[M. Bao], [S. Lou], [Z. Huang], [X. Li]),
 //   title:"Intelligent Analysis Platform for New Energy Consumption",
 //   location:"China Software Copyright, Publication",
-//   number:"2024SR078661",
+//   number:"2024SR0786617",
 //   date:"June. 2024",
 //   type:"software",
 // )
