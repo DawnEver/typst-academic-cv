@@ -12,7 +12,7 @@
 ...
 
 
-#let font_cn = "Noto Serif CJK SC"
+#let font_cn = "Microsoft Yahei"
 #let font_en = "Arial"
 
 #let font_title = 30pt
@@ -40,7 +40,7 @@
       align(right)[],
     )
   )
-  set text(font: font_cn,size: font_s4p);
+  set text(font: (font_en,font_cn),size: font_s4p);
   set list(body-indent:6pt)
 
   set par(justify: true)
@@ -60,7 +60,7 @@
 }
 
 // personal information
-#let info(name: "", phone: "", email: "", github: "", blog: "") = {
+#let info_en(name: "", phone: "", email: "", github: "", blog: "") = {
   v(-2em)
   grid(
     columns: (20fr,2fr,5fr),
@@ -92,8 +92,41 @@
     align(horizon)[#image("img/photo.png")],
   )
 }
+
+#let info_zh(name: "", phone: "", email: "", github: "", blog: "") = {
+  v(-2em)
+  grid(
+    columns: (20fr,2fr,5fr),
+    align(left+horizon)[
+      // Contact information
+      #v(1em)
+      #text([#name], weight: "black", size:font_title,fill:body_color)
+      #set text(size:font_s4p,fill:body_color,)
+      #set box(height: 1em,baseline: 20%)
+      #v(-1.5em)
+      #grid(columns: (5em, 1fr),
+      column-gutter: 1.6em,
+      row-gutter: 0.5em,
+        [#box[#image("img/envelope-solid.svg")]
+        #text(weight: "bold")[邮箱:]],
+        link("mailto:" + email),
+        [#box[#image("img/phone-solid.svg")]
+          #text(weight: "bold")[电话:]],
+        link("tel:" + phone)[#phone],
+        [#box[#image("img/github.svg")]
+          #text(weight: "bold")[Github:]],
+        link("https://github.com/" + github)[#github],
+        [#box[#image("img/blog.svg")]
+          #text(weight: "bold")[博客:]],
+        link("https://" + blog)[#blog],
+      )
+    ],
+    "",
+    align(horizon)[#image("img/photo.png")],
+  )
+}
 #let skills()={
-  set text(size:font_s4p,fill:body_color,)
+  set text(font:"Noto Serif CJK SC",size:font_s4p,fill:body_color,)
   set box(height: 1em,baseline: 20%)
   let h_pad = 1em
   grid(columns:(1fr, 1fr, 1fr, 1fr, 1fr, ),
@@ -116,7 +149,7 @@
 }
 // date
 #let dateFn(body) = {
-  set text(font: font_cn, fill: gray, size: font_s4p)
+  set text(font: (font_en,font_cn), fill: gray, size: font_s4p)
   place(end, body)
 }
 

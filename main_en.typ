@@ -3,8 +3,8 @@
 
 #show: project.with(
 )
-#info(
-  name: "Mingyang Bao",
+#info_en(
+  name: "Mingyang BAO",
   phone:"+86 19551570317",
   email:"mingyangbao@hust.edu.cn",
   github:"github.com/DawnEver",
@@ -22,7 +22,7 @@
 #h(2em)
 *GPA:*
 #h(1em)
-4.3/5\ 
+4/5\ 
 *College:*
 // #h(1em)
 School of Electrical and Electronic Engineering(SEEE)\
@@ -32,7 +32,8 @@ Electrical and Electronic Engineering\
 *Courses:*
 // #h(1em)
 Electrical Machinery Theory, 
-Electric Drive and Control Systems
+Electric Drive and Control Systems,
+Power Electronics
 ]
 = Skills
 #grid(columns:(1fr,2fr,2fr,2fr,2fr),
@@ -52,10 +53,10 @@ Electric Drive and Control Systems
   title:"Hi-Motor Series",
   event:"Leader/Fullstack Developer",
 )[\
-- Lead a 16-undergraduate team for software development, related research and\ business collaboration.
+- Lead a 18-undergraduate team for software development, related research and\ business collaboration.
 - Develop _hi-motor designer_ for design and optimization of high-efficiency motors,\ especially synchronous reluctance motors based on Python and Femm.
 - Support intelligent selection of high-efficiency motors with motor database and\ knowledge sharing platform based on MongoDB, Nodejs and Golang.
-- achieve 2 papers, 2 patents and register 2 software copyrights totally.
+// - achieve 2 papers, 2 patents and register 2 software copyrights totally.
 ]
 
 #event(
@@ -66,25 +67,33 @@ Electric Drive and Control Systems
 - Propose a novel design method of flux-barrier end shape based on B-spline curves.
 - achieve an effective electro-mechanical co-optimization workflow with sensitivity\ analysis, surrogate model, intelligent algorithms and multi-level optimization.
 // - Provide optimized motor designs of decrease in torque ripple and max stress\ without significant effect on other machine performances.
-
 ]
 
 #event(
-  date:"2023 Jul. - 2023 Aug.",
-  title:"Summer Internship, Bosch (China) Investment Ltd.",
+  date:"2023 Jul. - 2023 Aug. 2024 Jun. - 2024 Aug.",
+  title:"Strategic Internship, Bosch (China) Investment Ltd.",
   event:"Fullstack Developer",
 )[CR/RMD-AP, Shanghai, China\ 
-- Set up an optimization workflow for switched reluctance motors based on Ansys\ Maxwell and optiSLang.
-- Develop tools for acquisition and analysis of automobile sales data in Python.
-- Provide technical support for colleagues on project management, data analysis\ and artificial intelligence.
+- Set up an Ansys optimization workflow for switched reluctance motors on HPC cluster.
+- Build power factor correction circuit for switched reluctance motors.
+// - Develop tools for acquisition and analysis of automobile sales data in Python.
 ]
 
 // #event(
 //   date:"2023 Dec. - 2024 Apr.",
 //   title:"New Energy Forecast and Consumption",
 //   event:"Developer",
-// )[ ...
+// )[Approved $20000 funding\
+// ...
 // ]
+
+#event(
+  date:"2024 Jun. - 2025 Jun.",
+  title:[Natural Science Foundation of Huazhong University of\ Science and Technology],
+  event:"Primary Person",
+)[Approved ¥50000 Funding
+- Design and optimization of permanent magnet assisted synchronous reluctance\ motor based on unequal turn winding.
+]
 
 #pagebreak()
 = Honors and Awards
@@ -206,14 +215,14 @@ gutter: 5em,
   type:"software",
 )
 
-// #publication(
-//   authors:([Y. Yi], strong[M. Bao], [S. Lou], [Z. Huang], [X. Li]),
-//   title:"Intelligent Analysis Platform for New Energy Consumption",
-//   location:"China Software Copyright, Publication",
-//   number:"2024SR0786617",
-//   date:"June. 2024",
-//   type:"software",
-// )
+#publication(
+  authors:([Y. Yi], strong[M. Bao], [S. Lou], [Z. Huang], [X. Li]),
+  title:"Intelligent Analysis Platform for New Energy Consumption",
+  location:"China Software Copyright, Publication",
+  number:"2024SR0786617",
+  date:"June. 2024",
+  type:"software",
+)
 
 // = Referees
 // #box(baseline: -20%)[#sym.triangle.filled] Yawei Wang (supervisor), Associate Professor of Huazhong University of Science and Technology,\ yaweiwang\@hust.edu.cn\
