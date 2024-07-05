@@ -89,7 +89,7 @@ Power Electronics
 
 #event(
   date:"2024 Jun. - 2025 Jun.",
-  title:[Natural Science Foundation of Huazhong University of\ Science and Technology],
+  title:[Fundamental Research Funds for the Central Universities, HUST],
   event:"Primary Person",
 )[Approved ¥50000 Funding
 - Design and optimization of permanent magnet assisted synchronous reluctance\ motor based on unequal turn winding.
