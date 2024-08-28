@@ -1,6 +1,5 @@
 #import "template.typ": *
 
-
 #show: project.with(
 )
 #info_en(
@@ -8,10 +7,10 @@
   phone:"+86 19551570317",
   email:"mingyangbao@hust.edu.cn",
   github:"github.com/DawnEver",
+  // youtube:"youtu.be/LordBaobao",
+  orcid:"0009-0009-6694-2782",
   blog:"www.baomingyang.site"
 )
-// = Summary
-
 = Education Background
 
 #event(
@@ -22,7 +21,7 @@
 #h(2em)
 *GPA:*
 #h(1em)
-4/5\ 
+3.96/5\ 
 *College:*
 // #h(1em)
 School of Electrical and Electronic Engineering(SEEE)\
@@ -38,11 +37,10 @@ Power Electronics
 = Skills
 #grid(columns:(1fr,2fr,2fr,2fr,2fr),
   strong[English:],
-  strong[CET-6],
   // [#strong[_CET-6_] 600],
   // [#strong[_TOEFL_] 100],
   // [#strong[_GRE_] 330+3.5],
-  // [#strong[_IELTS_] 7.5],
+  [#strong[IELTS] 6.5],
 )
 
 #skills()
@@ -54,9 +52,7 @@ Power Electronics
   event:"Leader/Fullstack Developer",
 )[\
 - Lead a 18-undergraduate team for software development, related research and\ business collaboration.
-- Develop _hi-motor designer_ for design and optimization of high-efficiency motors,\ especially synchronous reluctance motors based on Python and Femm.
-- Support intelligent selection of high-efficiency motors with motor database and\ knowledge sharing platform based on MongoDB, Nodejs and Golang.
-// - achieve 2 papers, 2 patents and register 2 software copyrights totally.
+- Develop _hi-motor designer_ for design and optimization of high-performance motors,\ especially synchronous reluctance motors based on Python and Femm.
 ]
 
 #event(
@@ -65,7 +61,7 @@ Power Electronics
   event:"Primary Person",
 )[\
 - Propose a novel design method of flux-barrier end shape based on B-spline curves.
-- achieve an effective electro-mechanical co-optimization workflow with sensitivity\ analysis, surrogate model, intelligent algorithms and multi-level optimization.
+- Achieve an effective electro-mechanical co-optimization workflow with sensitivity\ analysis, surrogate model, intelligent algorithms and multi-level optimization.
 // - Provide optimized motor designs of decrease in torque ripple and max stress\ without significant effect on other machine performances.
 ]
 
@@ -74,16 +70,14 @@ Power Electronics
   title:"Strategic Internship, Bosch (China) Investment Ltd.",
   event:"Fullstack Developer",
 )[CR/RMD-AP, Shanghai, China\ 
-- Set up an Ansys optimization workflow for switched reluctance motors on HPC cluster.
-- Build power factor correction circuit for switched reluctance motors.
-// - Develop tools for acquisition and analysis of automobile sales data in Python.
+- Design and optimization of switched reluctance motors used in power tools,\ including structure optimization, PFC circuit and sensorless control.
 ]
 
 // #event(
-//   date:"2023 Dec. - 2024 Apr.",
+//   date:"2023 May. - 2024 May.",
 //   title:"New Energy Forecast and Consumption",
 //   event:"Developer",
-// )[Approved $20000 funding\
+// )[Approved ¥20000 funding\
 // ...
 // ]
 
@@ -117,7 +111,6 @@ gutter: 5em,
   #strong[Self-improvement Student] (7/412)],
 // strong[Outstanding League Cadres],
 )
-
 
 = Extracurricular Activities
 // #event(
@@ -173,17 +166,18 @@ gutter: 5em,
   authors:([Y. Yi], [Z. Huang], strong[M. Bao], [X. Li], [S. Lou]),
   title:"Multi-step Short-term Load Forecasting Based on Attention Mechanism, TCN-BiLSTM Network and Decomposition-based Error Correction",
   booktitle:"2024 IEEE 7th Asia Conference on Energy and Electrical Engineering (ACEEE 2024)",
-  location:"Chengdu, China",
-  number:"",
-  page:"1--9",
-  date:"July. 2023",
+  // location:"Chengdu, China",
+  // number:"",
+  // page:"1--9",
+  date:"In Press.",
+  // date:"July. 2023",
   doi:"",
   type:"conference",
 )
 #publication(
   authors:([Y. Wang], [J. Li], [X. Li], strong[M. Bao],  [R. Qu]),
   title:"Rotor with Adjacent Electrode Mirror Image of Synchronous Reluctance Motor and Permanent Magnet Assisted Synchronous Reluctance Motor",
-  location:"China Patent, Publication",
+  location:"Invention Patent, Publication",
   number:"CN116722678A",
   date:"Sep. 2023",
   type:"patent",
@@ -191,9 +185,17 @@ gutter: 5em,
 #publication(
   authors:([Y. Wang], [X. Li], [J. Li], strong[M. Bao],  [R. Qu]),
   title:"A Permanent Magnet Assisted Synchronous Reluctance Motor of Low Torque Ripple",
-  location:"China Patent, Publication",
+  location:"Invention Patent, Publication",
   number:"CN116505683B",
   date:"Apr. 2023",
+  type:"patent",
+)
+#publication(
+  authors:([J. Li], strong[M. Bao], [C. Mao], [Y. Wang], [S. Feng], [T. He], [R. Qu]),
+  title:"Design Method of Flux-Barrier End Shape of Synchronous Reluctance Motor Based on B-spline Curves",
+  location:"Invention Patent, Applying",
+  number:"",
+  date:"Aug. 2024",
   type:"patent",
 )
 
@@ -225,5 +227,6 @@ gutter: 5em,
 )
 
 // = Referees
+// #box(baseline: -20%)[#sym.triangle.filled] Ronghai Qu (supervisor), Professor of Huazhong University of Science and Technology,\ ronghaiqu\@hust.edu.cn\
 // #box(baseline: -20%)[#sym.triangle.filled] Yawei Wang (supervisor), Associate Professor of Huazhong University of Science and Technology,\ yaweiwang\@hust.edu.cn\
-// #box(baseline: -20%)[#sym.triangle.filled] Ronghai Qu (supervisor), Professor of Huazhong University of Science and Technology,\ ronghaiqu\@hust.edu.cn
+// #box(baseline: -20%)[#sym.triangle.filled] Xinhua Liu (mentor), Senior Engineer of Bosch (China) Investment Ltd.,\ xinhua.liu\@cn.bosch.com

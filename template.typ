@@ -13,7 +13,8 @@
 
 
 #let font_cn = "Microsoft Yahei"
-#let font_en = "Arial"
+#let font_en = "Times"
+
 
 #let font_title = 30pt
 #let font_2p = 22pt
@@ -60,7 +61,7 @@
 }
 
 // personal information
-#let info_en(name: "", phone: "", email: "", github: "", blog: "") = {
+#let info_en(name: "", phone: "", email: "", github: "", youtube:"", orcid:"", blog: "") = {
   v(-2em)
   grid(
     columns: (20fr,2fr,5fr),
@@ -71,18 +72,30 @@
       #set text(size:font_s4p,fill:body_color,)
       #set box(height: 1em,baseline: 20%)
       #v(-1.5em)
-      #grid(columns: (5em, 1fr),
+      #grid(columns: (6em, 1fr),
       column-gutter: 1.6em,
       row-gutter: 0.5em,
+      
         [#box[#image("img/envelope-solid.svg")]
         #text(weight: "bold")[Email:]],
         link("mailto:" + email),
+
         [#box[#image("img/phone-solid.svg")]
           #text(weight: "bold")[Phone:]],
         link("tel:" + phone)[#phone],
+
+        // [#box[#image("img/youtube.svg")]
+        //   #text(weight: "bold")[Youtube:]],
+        // link("https://" + youtube)[#youtube],
+
+        [#box[#image("img/orcid.svg")]
+          #text(weight: "bold")[ORCID:]],
+        link("https://orcid.org/" + orcid)[#orcid],
+
         [#box[#image("img/github.svg")]
           #text(weight: "bold")[Github:]],
         link("https://github.com/" + github)[#github],
+
         [#box[#image("img/blog.svg")]
           #text(weight: "bold")[Blog:]],
         link("https://" + blog)[#blog],
@@ -192,12 +205,12 @@
   ],
   "",
   {let auth_n = authors.len()
-    // if auth_n > 6 {
-    //   [#authors.at(0) _et. al._]
-    // }else{
-    //   authors.join(", ", last: " and ")
-    // }
-    authors.join(", ", last: " and ")
+    if auth_n > 3 {
+      [#authors.at(0), #authors.at(1), #authors.at(2) _et. al._]
+    }else{
+      authors.join(", ", last: " and ")
+    }
+    // authors.join(", ", last: " and ")
     if title != ""{
       [, "#title"]
     }
@@ -217,7 +230,7 @@
       [, #date]
     }
     if doi!= ""{
-      [, doi: #link("https://doi.org/"+doi)]
+      [, doi: #link("https://doi.org/"+doi)[#doi]]
     }
     if addtion != ""{
       [, #addtion]
@@ -231,7 +244,7 @@
   // v(-0.3em)
   grid(
     columns: (pad_size, icon_size, 1fr, icon_size, 1fr, icon_size, 1fr, icon_size, 1fr, pad_size),
-    gutter: 0.3em,
+    gutter: 0.1em,
     "",
     image("img/journal.svg"),
     align(left+horizon)[Journal],
