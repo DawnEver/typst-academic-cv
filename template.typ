@@ -205,8 +205,8 @@
   ],
   "",
   {let auth_n = authors.len()
-    if auth_n > 3 {
-      [#authors.at(0), #authors.at(1), #authors.at(2) _et. al._]
+    if auth_n > 4 {
+      [#authors.at(0), #authors.at(1), #authors.at(2), #authors.at(3) _et. al._]
     }else{
       authors.join(", ", last: " and ")
     }
@@ -237,6 +237,7 @@
     }
     }
   )
+  v(-0.2em)
 }
 #let publication_legend() ={
   let pad_size = 0.2em
