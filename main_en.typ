@@ -37,9 +37,6 @@ Power Electronics
 = Skills
 #grid(columns:(1fr,2fr,2fr,2fr,2fr),
   strong[English:],
-  // [#strong[_CET-6_] 600],
-  // [#strong[_TOEFL_] 100],
-  // [#strong[_GRE_] 330+3.5],
   [#strong[IELTS] 6.5],
 )
 
@@ -62,8 +59,19 @@ Power Electronics
 )[\
 - Propose a novel design method of flux-barrier end shape based on B-spline curves.
 - Achieve an effective electro-mechanical co-optimization workflow with sensitivity\ analysis, surrogate model, intelligent algorithms and multi-level optimization.
-// - Provide optimized motor designs of decrease in torque ripple and max stress\ without significant effect on other machine performances.
+- Provide optimized motor designs of decrease in torque ripple and max stress\ without significant effect on other machine performances.
 ]
+
+#event(
+  date:"2023 May. - 2024 May.",
+  title:"New Energy Forecast and Consumption Platform",
+  event:"Developer",
+)[Approved ¥20000 funding\
+- Propose time series forecast algorithms based om attention mechanism,\ TCN-BiLSTM network and decomposition-based error Correction
+- Develop a web platform of new energy forecast and new energy consumption warning.
+]
+
+#pagebreak()
 
 #event(
   date:"2023 Jul. - 2023 Aug. 2024 Jun. - 2024 Aug.",
@@ -73,14 +81,6 @@ Power Electronics
 - Design and optimization of switched reluctance motors used in power tools,\ including structure optimization, PFC circuit and sensorless control.
 ]
 
-// #event(
-//   date:"2023 May. - 2024 May.",
-//   title:"New Energy Forecast and Consumption",
-//   event:"Developer",
-// )[Approved ¥20000 funding\
-// ...
-// ]
-
 #event(
   date:"2024 Jun. - 2025 Jun.",
   title:[Fundamental Research Funds for the Central Universities, HUST],
@@ -89,13 +89,19 @@ Power Electronics
 - Design and optimization of permanent magnet assisted synchronous reluctance\ motor based on unequal turn winding.
 ]
 
-#pagebreak()
 = Honors and Awards
+#event(
+  date:"2024 Oct. 12 - 16",
+  title:"China International College Students’ Innovation Competition",
+  event:"Gold Award",
+)[Shanghai Jiao Tong University]
+
 #event(
   date:"2023 Dec. 7 - 9",
   title:"IEEE Student Conference on Electric Machines and Systems",
   event:"Best Presenter Award",
 )[Huzhou, China]
+
 
 #event(
   date:"2024 Feb. 2 - 5",
@@ -109,18 +115,9 @@ gutter: 5em,
   #strong[Sieyuan Scholarship] (8/412)],
 [#box(baseline: -20%)[#sym.triangle.filled]
   #strong[Self-improvement Student] (7/412)],
-// strong[Outstanding League Cadres],
 )
 
 = Extracurricular Activities
-// #event(
-//   date:"2024 Jan. - now",
-//   title:"Wuhan Voltworks Science and Technology Ltd.",
-//   event:"CEO/Chairman"
-// )[Leadership\
-// - Promote the development and application of _Hi-Motor Series_.
-// ]
-
 #event(
   date:"2022 Oct. - 2023 Sep.",
   title:"Association for Mathematical Modeling, HUST",
@@ -223,7 +220,7 @@ gutter: 5em,
   type:"software",
 )
 
-// = Referees
-// #box(baseline: -20%)[#sym.triangle.filled] Ronghai Qu (supervisor), Professor of Huazhong University of Science and Technology,\ ronghaiqu\@hust.edu.cn\
-// #box(baseline: -20%)[#sym.triangle.filled] Yawei Wang (supervisor), Associate Professor of Huazhong University of Science and Technology,\ yaweiwang\@hust.edu.cn\
-// #box(baseline: -20%)[#sym.triangle.filled] Xinhua Liu (mentor), Senior Engineer of Bosch (China) Investment Ltd.,\ xinhua.liu\@cn.bosch.com
+= Referees
+#box(baseline: -20%)[#sym.triangle.filled] Ronghai Qu (supervisor), Professor of Huazhong University of Science and Technology,\ ronghaiqu\@hust.edu.cn\
+#box(baseline: -20%)[#sym.triangle.filled] Yawei Wang (supervisor), Associate Professor of Huazhong University of Science and Technology,\ yaweiwang\@hust.edu.cn\
+#box(baseline: -20%)[#sym.triangle.filled] Xinhua Liu (mentor), Senior Engineer of Bosch (China) Investment Ltd.,\ xinhua.liu\@cn.bosch.com
