@@ -221,6 +221,6 @@ gutter: 5em,
 )
 
 = Referees
-#box(baseline: -20%)[#sym.triangle.filled] Ronghai Qu (supervisor), Professor of Huazhong University of Science and Technology,\ ronghaiqu\@hust.edu.cn\
-#box(baseline: -20%)[#sym.triangle.filled] Yawei Wang (supervisor), Associate Professor of Huazhong University of Science and Technology,\ yaweiwang\@hust.edu.cn\
-#box(baseline: -20%)[#sym.triangle.filled] Xinhua Liu (mentor), Senior Engineer of Bosch (China) Investment Ltd.,\ xinhua.liu\@cn.bosch.com
+#box(baseline: -20%)[#sym.triangle.filled] Ronghai Qu, Professor of Huazhong University of Science and Technology,\ ronghaiqu\@hust.edu.cn\
+#box(baseline: -20%)[#sym.triangle.filled] Yawei Wang, Associate Professor of Huazhong University of Science and Technology,\ yaweiwang\@hust.edu.cn\
+#box(baseline: -20%)[#sym.triangle.filled] Xinhua Liu, Senior Engineer of Bosch (China) Investment Ltd.,\ xinhua.liu\@cn.bosch.com
