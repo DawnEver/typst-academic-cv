@@ -21,7 +21,7 @@
 #h(2em)
 *GPA:*
 #h(1em)
-84.9/100\ 
+85.0/100\ 
 *College:*
 // #h(1em)
 School of Electrical and Electronic Engineering(SEEE)\
@@ -38,6 +38,7 @@ Power Electronics
 #grid(columns:(1fr,2fr,2fr,2fr,2fr),
   strong[English:],
   [#strong[IELTS] 6.5],
+  //[#strong[TOEFL] 92],
 )
 
 #skills()
@@ -223,4 +224,5 @@ gutter: 5em,
 = Referees
 #box(baseline: -20%)[#sym.triangle.filled] Ronghai Qu, Professor of Huazhong University of Science and Technology,\ ronghaiqu\@hust.edu.cn\
 #box(baseline: -20%)[#sym.triangle.filled] Yawei Wang, Associate Professor of Huazhong University of Science and Technology,\ yaweiwang\@hust.edu.cn\
+#box(baseline: -20%)[#sym.triangle.filled] Dawei Li, Professor of Huazhong University of Science and Technology,\ daweili\@hust.edu.cn\
 #box(baseline: -20%)[#sym.triangle.filled] Xinhua Liu, Senior Engineer of Bosch (China) Investment Ltd.,\ xinhua.liu\@cn.bosch.com

@@ -17,7 +17,7 @@ Typst is a new markup-based typesetting system that is designed to be as powerfu
 - ./main_en.typ  # main body of the thesis
 - ./[main_en.pdf](main_en.pdf) # default output pdf
 - ./main_zh.typ  # main body of the thesis
-- ./[main_zh.pdf](main_en.pdf) # default output pdf
+<!-- - ./[main_zh.pdf](main_en.pdf) # default output pdf -->
 
 ## Usage
 Run `typst compile main_en.typ` to obtain main_en.pdf
