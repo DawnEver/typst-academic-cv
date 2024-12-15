@@ -38,7 +38,7 @@ Power Electronics
 #grid(columns:(1fr,2fr,2fr,2fr,2fr),
   strong[English:],
   [#strong[IELTS] 6.5],
-  //[#strong[TOEFL] 92],
+  [#strong[TOEFL] 84],
 )
 
 #skills()
