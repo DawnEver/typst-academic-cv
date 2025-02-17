@@ -139,6 +139,17 @@ gutter: 5em,
 = Publications
 #publication_legend()
 #publication(
+  authors:([T. He], [Y. Wang], strong[M. Bao], [J. Li], [S. Feng], [R. Qu]),
+  title:"Design and Validation of a High-Efficiency Synchronous Reluctance Motor",
+  booktitle:"IEEE Transactions on Industry Applications",
+  location:"",
+  number:"",
+  page:"1--11",
+  date:"Feb. 2025",
+  doi:"10.1109/TIA.2025.3540735",
+  type:"journal",
+)
+#publication(
   authors:(strong[M. Bao], [Y. Wang], [C. Mao], [J. Li], [S. Feng], [T. He], [Y. Chen], [R. Qu]),
   title:"Novel Design Method of Flux-Barrier End Shape of Synchronous Reluctance Motor Based on B-spline Curves",
   booktitle:"2023 IEEE 6th Student Conference on Electric Machines and Systems (SCEMS)",
@@ -224,5 +235,4 @@ gutter: 5em,
 = Referees
 #box(baseline: -20%)[#sym.triangle.filled] Ronghai Qu, Professor of Huazhong University of Science and Technology,\ ronghaiqu\@hust.edu.cn\
 #box(baseline: -20%)[#sym.triangle.filled] Yawei Wang, Associate Professor of Huazhong University of Science and Technology,\ yaweiwang\@hust.edu.cn\
-#box(baseline: -20%)[#sym.triangle.filled] Dawei Li, Professor of Huazhong University of Science and Technology,\ daweili\@hust.edu.cn\
 #box(baseline: -20%)[#sym.triangle.filled] Xinhua Liu, Senior Engineer of Bosch (China) Investment Ltd.,\ xinhua.liu\@cn.bosch.com
