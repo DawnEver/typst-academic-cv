@@ -21,7 +21,7 @@
 #h(2em)
 *GPA:*
 #h(1em)
-85.0/100\ 
+85.4/100\ 
 *College:*
 // #h(1em)
 School of Electrical and Electronic Engineering(SEEE)\
