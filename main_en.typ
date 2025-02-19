@@ -7,7 +7,7 @@
   phone:"+86 19551570317",
   email:"mingyangbao@hust.edu.cn",
   github:"github.com/DawnEver",
-  // youtube:"youtu.be/LordBaobao",
+  youtube:"youtu.be/LordBaobao",
   orcid:"0009-0009-6694-2782",
   blog:"www.baomingyang.site"
 )
@@ -149,6 +149,16 @@ gutter: 5em,
   doi:"10.1109/TIA.2025.3540735",
   type:"journal",
 )
+
+#publication(
+  authors:([Y. Yi], [Z. Huang], strong[M. Bao], [X. Li], [S. Lou]),
+  title:"Multi-step Short-term Load Forecasting Based on Attention Mechanism, TCN-BiLSTM Network and Decomposition-based Error Correction",
+  booktitle:"2024 IEEE 7th Asia Conference on Energy and Electrical Engineering (ACEEE)",
+  page:"224-231",
+  date:"July. 2024",
+  doi:"10.1109/ACEEE62329.2024.10651918",
+  type:"conference",
+)
 #publication(
   authors:(strong[M. Bao], [Y. Wang], [C. Mao], [J. Li], [S. Feng], [T. He], [Y. Chen], [R. Qu]),
   title:"Novel Design Method of Flux-Barrier End Shape of Synchronous Reluctance Motor Based on B-spline Curves",
@@ -171,14 +181,14 @@ gutter: 5em,
   doi:"10.1109/ICEMS59686.2023.10345091",
   type:"conference",
 )
+
 #publication(
-  authors:([Y. Yi], [Z. Huang], strong[M. Bao], [X. Li], [S. Lou]),
-  title:"Multi-step Short-term Load Forecasting Based on Attention Mechanism, TCN-BiLSTM Network and Decomposition-based Error Correction",
-  booktitle:"2024 IEEE 7th Asia Conference on Energy and Electrical Engineering (ACEEE)",
-  page:"224-231",
-  date:"July. 2024",
-  doi:"10.1109/ACEEE62329.2024.10651918",
-  type:"conference",
+  authors:([J. Li], strong[M. Bao], [C. Mao], [Y. Wang], [S. Feng], [T. He], [R. Qu]),
+  title:"Design Method of Flux-Barrier End Shape of Synchronous Reluctance Motor Based on B-spline Curves",
+  location:"Invention Patent, Applying",
+  number:"",
+  date:"Aug. 2024",
+  type:"patent",
 )
 #publication(
   authors:([Y. Wang], [J. Li], [X. Li], strong[M. Bao],  [R. Qu]),
@@ -196,15 +206,24 @@ gutter: 5em,
   date:"Apr. 2023",
   type:"patent",
 )
-#publication(
-  authors:([J. Li], strong[M. Bao], [C. Mao], [Y. Wang], [S. Feng], [T. He], [R. Qu]),
-  title:"Design Method of Flux-Barrier End Shape of Synchronous Reluctance Motor Based on B-spline Curves",
-  location:"Invention Patent, Applying",
-  number:"",
-  date:"Aug. 2024",
-  type:"patent",
-)
 
+
+#publication(
+  authors:(strong[M. Bao], [K. Zhu], [Y. Wang]),
+  title:"Hi-Motor MechEM: Motor Design Software for Electromagnetic-Mechanical Co-simulation V1.0",
+  location:"China Software Copyright, Publication",
+  number:"2024SR2151709",
+  date:"Dec. 2024",
+  type:"software",
+)
+#publication(
+  authors:([Y. Yi], strong[M. Bao], [S. Lou], [Z. Huang], [X. Li]),
+  title:"Intelligent Analysis Platform for New Energy Consumption V1.0",
+  location:"China Software Copyright, Publication",
+  number:"2024SR0786617",
+  date:"June. 2024",
+  type:"software",
+)
 #publication(
   authors:(strong[M. Bao], [S. Lu], [Y. Wang]),
   title:"Hi-Motor Hub: intelligent Selection Tool for High-efficiency Motors V1.0",
@@ -213,22 +232,12 @@ gutter: 5em,
   date:"Nov. 2023",
   type:"software",
 )
-
 #publication(
   authors:(strong[M. Bao], [J. Li], [Y. Chen], [Y. Wang]),
   title:"Hi-Motor Designer: intelligent Software for Design and Optimization of Synchronous Reluctance Motor V1.0",
   location:"China Software Copyright, Publication",
   number:"2023SR0446741",
   date:"Apr. 2023",
-  type:"software",
-)
-
-#publication(
-  authors:([Y. Yi], strong[M. Bao], [S. Lou], [Z. Huang], [X. Li]),
-  title:"Intelligent Analysis Platform for New Energy Consumption",
-  location:"China Software Copyright, Publication",
-  number:"2024SR0786617",
-  date:"June. 2024",
   type:"software",
 )
 
