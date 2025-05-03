@@ -38,7 +38,7 @@ Power Electronics
 #grid(columns:(1fr,2fr,2fr,2fr,2fr),
   strong[English:],
   [#strong[IELTS] 6.5],
-  [#strong[TOEFL] 84],
+  // [#strong[TOEFL] 84],
 )
 
 #skills()
@@ -135,6 +135,15 @@ gutter: 5em,
 )[Writing/Graphic Design\
 - Generate positive publicity and media coverage of students and major events,\ such as the 70th anniversary celebration.
 ]
+
+#event(
+  date:"2024 Sep. - now.",
+  title:"Peer Review Experience",
+  event:"Peer Reviewer",
+)[
+- 1 time for IEEE IAS Publications.
+]
+
 
 = Publications
 #publication_legend()

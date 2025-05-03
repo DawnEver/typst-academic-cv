@@ -139,7 +139,7 @@
   )
 }
 #let skills()={
-  set text(font:"Noto Serif CJK SC",size:font_s4p,fill:body_color,)
+  set text(size:font_s4p,fill:body_color,)
   set box(height: 1em,baseline: 20%)
   let h_pad = 1em
   grid(columns:(1fr, 1fr, 1fr, 1fr, 1fr, ),
