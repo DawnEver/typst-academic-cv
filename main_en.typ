@@ -56,7 +56,7 @@ Power Electronics
 #event(
   date:"2023 Aug. - 2023 Sep.",
   title:[Design and Optimization of Flux-Barrier End shape in\ Synchronous Reluctance Motor Based on B-spines],
-  event:"Primary Person",
+  event:"Principal Investigator",
 )[\
 - Propose a novel design method of flux-barrier end shape based on B-spline curves.
 - Achieve an effective electro-mechanical co-optimization workflow with sensitivity\ analysis, surrogate model, intelligent algorithms and multi-level optimization.
@@ -85,7 +85,7 @@ Power Electronics
 #event(
   date:"2024 Jun. - 2025 Jun.",
   title:[Fundamental Research Funds for the Central Universities, HUST],
-  event:"Primary Person",
+  event:"Principal Investigator",
 )[Approved ¥50000 Funding
 - Design and optimization of permanent magnet assisted synchronous reluctance\ motor based on unequal turn winding.
 ]
