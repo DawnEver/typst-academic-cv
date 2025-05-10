@@ -224,3 +224,8 @@ gutter: 5em,
 // = Referees
 // #box(baseline: -20%)[#sym.triangle.filled] Yawei Wang (supervisor)，Associate Professor of Huazhong University of Science and Technology,\ yaweiwang\@hust.edu.cn\
 // #box(baseline: -20%)[#sym.triangle.filled] Ronghai Qu (supervisor)，Professor of Huazhong University of Science and Technology,\ ronghaiqu\@hust.edu.cn
+
+
+#align(center)[
+  更新时间：2024 年 6 月 25 日
+]

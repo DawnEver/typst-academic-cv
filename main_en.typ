@@ -191,6 +191,15 @@ gutter: 5em,
   type:"conference",
 )
 
+// patents
+#publication(
+  authors:([J. Li], [K. Zhu], strong[M. Bao], [Y. Wang], [Y. Cheng], [C. Zhang], [R. Qu]),
+  title:"An Multi-Level Optimization Method And Application For Permanent Magnet Reluctance Motor Based On Improved Sensitivity Analysis",
+  location:"Invention Patent, Applying",
+  number:"",
+  date:"March. 2025",
+  type:"patent",
+)
 #publication(
   authors:([J. Li], strong[M. Bao], [C. Mao], [Y. Wang], [S. Feng], [T. He], [R. Qu]),
   title:"Design Method of Flux-Barrier End Shape of Synchronous Reluctance Motor Based on B-spline Curves",
@@ -216,7 +225,7 @@ gutter: 5em,
   type:"patent",
 )
 
-
+// software copyrights
 #publication(
   authors:(strong[M. Bao], [K. Zhu], [Y. Wang]),
   title:"Hi-Motor MechEM: Motor Design Software for Electromagnetic-Mechanical Co-simulation V1.0",
@@ -254,3 +263,10 @@ gutter: 5em,
 #box(baseline: -20%)[#sym.triangle.filled] Ronghai Qu, Professor of Huazhong University of Science and Technology,\ ronghaiqu\@hust.edu.cn\
 #box(baseline: -20%)[#sym.triangle.filled] Yawei Wang, Associate Professor of Huazhong University of Science and Technology,\ yaweiwang\@hust.edu.cn\
 #box(baseline: -20%)[#sym.triangle.filled] Xinhua Liu, Senior Engineer of Bosch (China) Investment Ltd.,\ xinhua.liu\@cn.bosch.com
+
+
+#align(center)[
+  #text(fill: gray)[
+    Modified: May 10, 2025
+  ]
+]
