@@ -204,7 +204,7 @@ gutter: 5em,
   authors:([J. Li], strong[M. Bao], [C. Mao], [Y. Wang], [S. Feng], [T. He], [R. Qu]),
   title:"Design Method of Flux-Barrier End Shape of Synchronous Reluctance Motor Based on B-spline Curves",
   location:"Invention Patent, Applying",
-  number:"",
+  number:"CN202411115087.7",
   date:"Aug. 2024",
   type:"patent",
 )
