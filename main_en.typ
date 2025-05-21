@@ -84,7 +84,7 @@ Power Electronics
 
 #event(
   date:"2024 Jun. - 2025 Jun.",
-  title:[Fundamental Research Funds for the Central Universities, HUST],
+  title:[Outstanding Conclusion of Fundamental Research Funds for the Central Universities, HUST],
   event:"Principal Investigator",
 )[Approved ¥50000 Funding
 - Design and optimization of permanent magnet assisted synchronous reluctance\ motor based on unequal turn winding.
